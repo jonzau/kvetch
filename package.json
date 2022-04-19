@@ -1,0 +1,14 @@
+{
+  "name": "kvetch",
+  "version": "1.0.0",
+  "description": "Basic Node.Js denial of service (DoS) attacker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "http": "0.0.1-security"
+  }
+}
