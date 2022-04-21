@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "dotenv": "^16.0.0",
-    "http": "0.0.1-security"
+    "request": "^2.88.2"
   }
 }
